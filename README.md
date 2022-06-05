@@ -7,4 +7,4 @@ Linguagens que quero utilizar até o momento:
 - JAVA;
 - Dart;
 
-[Link para o curso utilizado como base de aprendizado]: (https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/)
+[Curso utilizado como base de aprendizado](https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/)
